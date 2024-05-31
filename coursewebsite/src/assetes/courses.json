@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:759/1*rNHCWUayVFlm6N0PK2TM2A.png",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"]
+    },
+    {
+      "id": 2,
+      "name": "Advanced JavaScript",
+      "instructor": "Jane Smith",
+      "description": "Deep dive into advanced JavaScript concepts and ES6 features.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:698/1*Kkz2TEe7QfZk-x1li4xnyg.png",
+      "duration": "6 weeks",
+      "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Intermediate JavaScript knowledge"]
+    },
+    {
+      "id": 3,
+      "name": "Full Stack Web Development",
+      "instructor": "Alice Johnson",
+      "description": "Become a full stack web developer with hands-on projects using modern technologies.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "https://www.ebizneeds.com/front/img/webp/Full_Stack-.webp",
+      "duration": "12 weeks",
+      "schedule": "Weekdays, 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic HTML and CSS knowledge", "Basic JavaScript knowledge"]
+    },
+    {
+      "id": 4,
+      "name": "Data Structures and Algorithms",
+      "instructor": "Bob Brown",
+      "description": "Learn fundamental data structures and algorithms to ace technical interviews.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:1400/0*7AHKqhGVaDWZJ1L_.png",
+      "duration": "10 weeks",
+      "schedule": "Saturdays, 1:00 PM - 4:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic programming knowledge"]
+    }
+  ]
+  
