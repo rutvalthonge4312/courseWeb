@@ -1,1 +1,2 @@
-# courseWeb
+cd coursewebsite
+npm start
